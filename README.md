@@ -1,4 +1,3 @@
-Project #3 for SDMM
 # Vanilla Rock Paper Scissor Game
 
 <br>
