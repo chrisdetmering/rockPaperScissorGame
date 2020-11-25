@@ -18,4 +18,4 @@ Play it [here](https://andysterks.github.io/JS-Tetris)
 
 ## Author
 
-* **Chris Detmering
+* **Chris Detmering**
